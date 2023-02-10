@@ -1,1 +1,1 @@
--fullscreen -novid -nojoy -nosteamcontroller -noforcemaccel -noquicktime -forcenovsync -high -particles 1 -precachefontchars -refresh 144 -freq 144 -high +cl_forcepreload 1 +exec custom.cfg
+-fullscreen -novid -nojoy -nosteamcontroller -noforcemaccel -noquicktime -forcenovsync -high -particles 1 -precachefontchars -refresh 144 -freq 144 -high -tickrate 128 +cl_forcepreload 1 +exec custom.cfg
