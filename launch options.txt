@@ -1,1 +1,1 @@
--console -novid -tickrate 128 -freq 144 -high +exec custom
+-console -tickrate 128 -refresh 144 -high +exec custom
