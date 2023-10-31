@@ -1,6 +1,10 @@
 # hbivnm-cs2-config
 For archiving purposes. Contains autoexec/custom, launch options, binds, aliases and etc.
 
+## CS2 alt-tab freeze fix (AMD)
+* Update chipset drivers
+* Set CS2.exe process priority to `High`
+
 ## Settings
 In-game settings that aren't set by `cfg\custom.cfg`.
 
