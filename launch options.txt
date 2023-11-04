@@ -1,1 +1,1 @@
--console -tickrate 128 -refresh 144 -high +exec custom
+-console
