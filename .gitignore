@@ -1,2 +1,4 @@
 *.bat
 *.lnk
+gen_broskins_list.txt
+gen_broskins.py

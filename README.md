@@ -16,7 +16,7 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 * Aspect Ratio - **Normal 4:3**
 * Resolution - **1280x960**
 * Refresh Rate - **360Hz**
-* Brightness - **111%**
+* Brightness - **100%**
 
 ### Video -> Advanced Video
 #### Advanced Video
@@ -25,13 +25,13 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 #### Frame Pacing
 * V-Sync - **Disabled**
 * NVIDIA G-Sync - **Disabled**
-* NVIDIA Reflex Low Latency - **Enabled + Boost**
-* Maximum FPS In Game - **800**
-* Maximum FPS In Menus - **361**
+* NVIDIA Reflex Low Latency - **Enabled**
+* Maximum FPS In Game - **390**
+* Maximum FPS In Menus - **244**
 
 #### Presets
 * Current Video Values Preset - **Custom**
-    * Multisampling Anti-Aliasing Mode - **2x MSAA**
+    * Multisampling Anti-Aliasing Mode - **4x MSAA**
     * Global Shadow Quality - **High**
     * Dynamic Shadows - **All**
     * Model / Texture Detail - **High**
@@ -68,3 +68,9 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 * Casual EQ - **Default**
 * Deathmatch EQ - **Default**
 * Arms Race EQ - **Default**
+
+### Game
+#### Game -> Game
+* Max Acceptable Matchmaking Ping - **39**
+* Max Acceptable Game Traffic Bandwidth - **unrestricted**
+* Buffering to smooth over packet loss / jitter - **None**
