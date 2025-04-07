@@ -14,7 +14,7 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 ### Video -> Video
 * Display Mode - **Fullscreen**
 * Aspect Ratio - **Normal 4:3**
-* Resolution - **1280x960**
+* Resolution - **1440x1080**
 * Refresh Rate - **360Hz**
 * Brightness - **100%**
 
@@ -31,10 +31,10 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 
 #### Presets
 * Current Video Values Preset - **Custom**
-    * Multisampling Anti-Aliasing Mode - **4x MSAA**
+    * Multisampling Anti-Aliasing Mode - **2x MSAA**
     * Global Shadow Quality - **High**
     * Dynamic Shadows - **All**
-    * Model / Texture Detail - **High**
+    * Model / Texture Detail - **Low**
     * Texture Filtering Mode - **Anisotropic 8x**
     * Shader Detail - **High**
     * Particle Detail - **Low**
