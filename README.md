@@ -14,7 +14,7 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 ### Video -> Video
 * Display Mode - **Fullscreen**
 * Aspect Ratio - **Normal 4:3**
-* Resolution - **1440x1080**
+* Resolution - **1280x960**
 * Refresh Rate - **360Hz**
 * Brightness - **100%**
 
