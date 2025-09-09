@@ -12,10 +12,10 @@ Contains autoexec/custom, launch options, binds, aliases and etc. for Counter-St
 In-game settings that aren't set by `cfg\custom.cfg`.
 
 ### Video -> Video
-* Display Mode - **Fullscreen**
+* Display Mode - **Fullscreen Windowed**
 * Aspect Ratio - **Normal 4:3**
 * Resolution - **1280x960**
-* Refresh Rate - **360Hz**
+* Refresh Rate - ~~**360Hz**~~
 * Brightness - **100%**
 
 ### Video -> Advanced Video
@@ -26,15 +26,15 @@ In-game settings that aren't set by `cfg\custom.cfg`.
 * V-Sync - **Disabled**
 * NVIDIA G-Sync - **Disabled**
 * NVIDIA Reflex Low Latency - **Enabled**
-* Maximum FPS In Game - **390**
-* Maximum FPS In Menus - **244**
+* Maximum FPS In Game - **999** (Limited in NVIDIA Control Panel)
+* Maximum FPS In Menus - **999** (Limited in NVIDIA Control Panel)
 
 #### Presets
 * Current Video Values Preset - **Custom**
-    * Multisampling Anti-Aliasing Mode - **2x MSAA**
+    * Multisampling Anti-Aliasing Mode - **None**
     * Global Shadow Quality - **High**
     * Dynamic Shadows - **All**
-    * Model / Texture Detail - **Low**
+    * Model / Texture Detail - **High**
     * Texture Filtering Mode - **Anisotropic 8x**
     * Shader Detail - **High**
     * Particle Detail - **Low**
