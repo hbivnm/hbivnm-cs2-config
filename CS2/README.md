@@ -7,7 +7,7 @@ Contains autoexec/custom, launch options, binds, aliases and etc. for **Counter-
 * Use another browser than Google Chrome
 
 ## Settings
-In-game settings that aren't set by `cfg\custom.cfg`.
+In-game settings that aren't set by `cfg\autoexec.cfg`.
 
 ### Video -> Video
 * Display Mode - **Fullscreen Windowed**
