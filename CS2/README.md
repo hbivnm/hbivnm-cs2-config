@@ -24,8 +24,8 @@ In-game settings that aren't set by `cfg\autoexec.cfg`.
 * V-Sync - **Disabled**
 * NVIDIA G-Sync - **Disabled**
 * NVIDIA Reflex Low Latency - **Enabled**
-* Maximum FPS In Game - **999** (Limited in NVIDIA Control Panel)
-* Maximum FPS In Menus - **999** (Limited in NVIDIA Control Panel)
+* Maximum FPS In Game - **999**
+* Maximum FPS In Menus - **999**
 
 #### Presets
 * Current Video Values Preset - **Custom**
